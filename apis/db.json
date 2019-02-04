@@ -1,0 +1,16 @@
+{
+  "added-locations": [
+    {
+      "id": "id4",
+      "name": "Dallas",
+      "lat": 32,
+      "lng": -96
+    },
+    {
+      "id": "id5",
+      "name": "Rhode Island City",
+      "lat": 41,
+      "lng": -71
+    }
+  ]
+}
