@@ -11,6 +11,12 @@
       "name": "Rhode Island City",
       "lat": 41,
       "lng": -71
+    },
+    {
+      "id": "id6",
+      "name": "Seattle",
+      "lat": 34,
+      "lng": -122
     }
   ]
 }
